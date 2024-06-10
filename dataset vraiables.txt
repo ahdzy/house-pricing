@@ -1,0 +1,28 @@
+
+A- the independent variable
+	1- MedInc (Median Income):
+		-Median income of households in a district.
+	2-HouseAge (Housing Median Age):
+		-Median age of housing units in a district.
+
+	3-AveRooms (Average Rooms):
+		-Average number of rooms in houses within a district.
+	4-AveBedrms (Average Bedrooms):
+		-Average number of bedrooms in houses within a district.
+
+	5-Population:
+		-Total population in a district.
+
+	6- AveOccup (Average Occupancy):
+		-Average occupancy (number of people living in a household) in a district.
+
+	7-Latitude:
+		-Latitude coordinate of the district.
+
+	8-Longitude:
+		Longitude coordinate of the district.
+
+
+B- dependent vraiable (target)
+	Price:
+		- Median house value for households within a district (the target variable).
